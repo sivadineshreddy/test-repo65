@@ -1,2 +1,5 @@
-hello 
-how r u 
+int 
+{
+	void main()
+}
+end
